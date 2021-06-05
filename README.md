@@ -1,2 +1,2 @@
-#Pkthundah Portfolio
-Welcome! This is Pkthundah's portfolio!
+#MyPortfolio
+Welcome! This is Pkthundah's portfolio.
